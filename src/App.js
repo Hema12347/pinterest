@@ -69,7 +69,7 @@ const getNewPins =()=>{
 useEffect(()=>{
 
   getNewPins();
-}, []);
+}, );
 
 
 
